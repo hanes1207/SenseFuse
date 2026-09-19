@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.egg-info/
+
+# everything you download (data/DATASETS.md says where from)
+data/*
+!data/DATASETS.md
